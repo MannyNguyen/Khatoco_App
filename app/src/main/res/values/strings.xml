@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Khatoco</string>
+    <string name="sign_up">Sign up</string>
+    <string name="route">Tuyến</string>
+    <string name="district">Quận huyện</string>
+    <string name="store">Tên</string>
+    <string name="product_type">Loại sản phẩm</string>
+    <string name="product_name">Tên sản phẩm</string>
+    <string name="promotion_name">Tên sản phẩm khuyến mãi</string>
+    <string name="promotion">Khuyến mãi</string>
+    <string name="number">Số lượng</string>
+    <string name="add">Add</string>
+    <string name="price">Thành tiền</string>
+    <string name="submit">Submit</string>
+    <string name="login_fail">Login failed</string>
+    <string name="message_login_fail">"Please check your info and try again"</string>
+    <string name="message_login_already">"The account is in use already. Please check and try again"</string>
+    <string name="message">Message</string>
+    <string name="ok">OK</string>
+    <string name="text_sign_up_1">Don\'t have a account ?</string>
+    <string name="text_sign_up_2"><u>\u0020 Sign up \u0020</u></string>
+    <string name="text_sign_up_3">here</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_pass">Enter your password</string>
+    <string name="hint_code">Security code</string>
+
+    <string name="login">Login</string>
+
+    <!--dialog-->
+    <string name="please_wait">Please wait ...</string>
+    <string name="title_mock_location">Mock location is settings</string>
+    <string name="mock_location_off">Please turn off mock location. Do you want to go to settings menu</string>
+
+    <!--error-->
+    <string name="error_user_name_require">Email is required</string>
+    <string name="error_password_require">Password is required</string>
+    <string name="error_code_require">Code is required</string>
+    <string name="title_require">Title is required</string>
+    <string name="task_master_require">Task master is required</string>
+    <string name="pic_require">Person in charge is required</string>
+    <string name="description_require">Description is required</string>
+    <string name="error_user_name_validate">Required at least 6 and less than 30 characters (allow letters, numbers and @ . + - _ characters)</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="caution_product_add">This product\'s added into list. Please confirm addition !?</string>
+</resources>
